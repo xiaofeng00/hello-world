@@ -1,5 +1,5 @@
 OBJECTS = main.o
-TARGET = hello
+TARGET = hello s
 
 all: $(TARGET)
 
